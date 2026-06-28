@@ -1,4 +1,4 @@
-# Contributing to faang-semanticscholar-search
+# Contributing to semanticscholarsearch
 
 Thank you for your interest in contributing!
 
