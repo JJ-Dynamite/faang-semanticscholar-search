@@ -1,11 +1,11 @@
 [package]
-name = "semanticscholar-search-backend"
+name = "faang-semanticscholar-search-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Free academic search - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/semanticscholar-search"
+repository = "https://github.com/JJ-Dynamite/faang-semanticscholar-search"
 
 [dependencies]
 axum = "0.7"
